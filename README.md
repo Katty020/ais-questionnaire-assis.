@@ -27,9 +27,6 @@ Ensure you have Node.js installed. You can download it from [here](https://nodej
 ### Installation
 
 1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/questionnaire-app.git
 2. cd questionnaire-app
 3. npm install
 4. npm run dev
