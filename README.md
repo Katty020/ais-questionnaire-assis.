@@ -1,9 +1,11 @@
 ## Tech-Stack Used :- 
 <br>
-### ReactJS
+<h3> ReactJS</h3>
 
 <br>
-### Framer Motion
+<h3> Framer Motion</h3>
+<br>
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
