@@ -1,0 +1,97 @@
+[
+  {
+    "id": "01",
+    "question": "Which of the following is the correct name of our galaxy?",
+    "options": ["Milky Way", "Milky Way Galaxy", "The Galaxy", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "id": "02",
+    "question": "Which of the following are the advantages of using telescopes in astronomy?",
+    "options": [
+      "Telescopes can collect more light than the human eye.",
+      "Telescopes allow us to observe distant objects.",
+      "Telescopes can analyze light from stars to determine their composition.",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": "03",
+    "question": "Which of the following is not a disadvantage of using telescopes?",
+    "options": [
+      "Telescopes can be very expensive.",
+      "Telescopes require clear skies to function effectively.",
+      "Telescopes can only observe visible light.",
+      "Telescopes can provide detailed images of celestial objects."
+    ],
+    "answer": "Telescopes can provide detailed images of celestial objects."
+  },
+  {
+    "id": "04",
+    "question": "What command is used to launch a rocket into space?",
+    "options": [
+      "Ignite the engines",
+      "Launch sequence initiated",
+      "Liftoff",
+      "All systems go"
+    ],
+    "answer": "Liftoff"
+  },
+  {
+    "id": "05",
+    "question": "What is the primary force that keeps planets in orbit around the sun?",
+    "options": [
+      "Magnetism",
+      "Friction",
+      "Gravity",
+      "Inertia"
+    ],
+    "answer": "Gravity"
+  },
+  {
+    "id": "06",
+    "question": "What is the average distance from the Earth to the Sun?",
+    "options": ["93 million miles", "150 million kilometers", "1 astronomical unit", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "id": "07",
+    "question": "How many planets are in our solar system?",
+    "options": ["7", "8", "9", "10"],
+    "answer": "8"
+  },
+  {
+    "id": "08",
+    "question": "What is the best method to detect exoplanets?",
+    "options": [
+      "Astrometry",
+      "Transit method",
+      "Radial velocity method",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": "09",
+    "question": "What is a black hole?",
+    "options": [
+      "A region of space with strong gravitational pull.",
+      "A star that has collapsed under its own gravity.",
+      "An area where light cannot escape.",
+      "All of the above."
+    ],
+    "answer": "All of the above."
+  },
+  {
+    "id": "10",
+    "question": "What are the two main types of telescopes used in astronomy?",
+    "options": [
+      "Refracting & Reflecting",
+      "Optical & Radio",
+      "Ground-based & Space-based",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  }
+]
